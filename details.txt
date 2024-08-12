@@ -1,0 +1,17 @@
+PS C:\Users\ZEN> ghci
+GHCi, version 9.4.4: https://www.haskell.org/ghc/  :? for help
+ghci> :l C:\Users\ZEN\Desktop\Haskell\one.hs
+[1 of 2] Compiling Main             ( C:\Users\ZEN\Desktop\Haskell\one.hs, interpreted )
+Ok, one module loaded.
+ghci> main
+Hello
+ghci>
+
+:? - help manual
+
+:! - can exexute cmd commants
+
+:! py -> opens python
+
+:! type <filename>  -> prints data inside the filename
+
